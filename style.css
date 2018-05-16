@@ -9,7 +9,7 @@ body {
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif;
     font-size: 18px;
-    line-height: 150%;
+    line-height: 200%;
     color: #325230;
     background: #62ce58;
   }
@@ -33,7 +33,7 @@ body {
   }
   
   a {
-    color: #d21034;
+    color: #fff;
   }
   
   .container {
